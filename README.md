@@ -1,15 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Stewart's Homepage!
 
-You can use the [editor on GitHub](https://github.com/stewarthaha/stewarthaha.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will fill it my life log. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Trip
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+<img src ="https://user-images.githubusercontent.com/25080800/43105357-9aba0870-8efa-11e8-8a96-7617ae8f583f.jpg"></img>
+<p>It's Raneli at Shan state Myanmar.</p> 
 
 # Header 1
 ## Header 2
@@ -18,13 +14,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
