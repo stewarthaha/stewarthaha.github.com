@@ -4,19 +4,8 @@ I will fill it my life log.
 
 ### Trip
 
-<img src ="https://user-images.githubusercontent.com/25080800/43105357-9aba0870-8efa-11e8-8a96-7617ae8f583f.jpg"></img>
+<img src ="https://user-images.githubusercontent.com/25080800/43105357-9aba0870-8efa-11e8-8a96-7617ae8f583f.jpg">
 <p>It's Raneli at Shan state Myanmar.</p> 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
