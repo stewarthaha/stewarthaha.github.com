@@ -2,7 +2,9 @@
 
 My Life Log  
 
-### Trip
+### Trip in Myanmar
+### Study
+### Food
 
 <img src ="https://user-images.githubusercontent.com/25080800/43105357-9aba0870-8efa-11e8-8a96-7617ae8f583f.jpg">
 It's Raneli at Shan state Myanmar.
